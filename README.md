@@ -1,2 +1,4 @@
-# scratch.txt.js
-A more human-writable form of project.json.
+Scratch Text fORM
+=================
+
+A more human-writable form of project.json. 
